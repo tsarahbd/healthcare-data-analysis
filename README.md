@@ -24,7 +24,7 @@ Before analysis, I performed the following preprocessing steps:
 
 ✔ **Handled missing values** by forward-filling and imputing reasonable estimates.  
 ✔ **Converted data types** (e.g., Year to categorical for proper plotting).  
-✔ **Addressed infinite values** by replacin
+✔ **Addressed infinite values** by replacing.
 ✔ **Standardized country names** and removed inconsistencies.  
 ✔ **Checked for outliers** using summary statistics and visualizations.  
 
