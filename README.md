@@ -31,22 +31,15 @@ Before analysis, I performed the following preprocessing steps:
 ---
 
 ## 📊 **Exploratory Data Analysis (EDA)**  
-### 🔹 **Key Findings:**  
+
 
 📌 **Life Expectancy Trends**  
-- Life expectancy has generally **increased from 1990 to 2020**, reflecting improvements in healthcare systems.  
-- Developed countries show a **higher life expectancy** compared to developing nations.  
 
 📌 **Hospital Beds & Doctors Per 1,000 People**  
-- Some countries have **high numbers of hospital beds** but a **lower doctor-to-patient ratio**.  
-- Countries with **fewer hospital beds** tend to compensate with **higher healthcare spending**.  
 
 📌 **Infant Mortality vs. Healthcare Spending**  
-- A **negative correlation** was observed—**higher healthcare spending** is linked to **lower infant mortality rates**.  
 
 📌 **Correlation Analysis**  
-- Life expectancy is **positively correlated** with the number of doctors per 1,000 people.  
-- **Infant mortality rates are negatively correlated** with life expectancy and healthcare spending.  
 
 ---
 
@@ -55,3 +48,8 @@ Before analysis, I performed the following preprocessing steps:
 ✔ **Heatmaps** for correlation analysis.  
 ✔ **Stacked bar charts** for country-wise comparisons.
 
+---
+
+## 📊 **Visualizations in Tableau**
+
+In this project, I leveraged **Tableau** to create an **interactive dashboard** for analyzing global healthcare data from 1990 to 2020. Using **data visualization techniques**, I successfully represented life expectancy trends, healthcare spending patterns, and the availability of hospital beds and doctors per 1,000 people across different countries. I built **KPI cards**, **bar plots**, **scatter plots**, and **line graphs**, while integrating *filters and slicers* for dynamic exploration. By applying data modeling techniques, I connected multiple charts and allowed cross-filtering between different metrics. This not only enhanced data storytelling but also provided actionable insights into healthcare infrastructure and its impact on life expectancy. Through this work, I demonstrated my expertise in data visualization, dashboard design, and advanced filtering techniques in Tableau.
