@@ -1,7 +1,9 @@
 # 🏥 Healthcare Data Analysis: A Comprehensive Study  
 
 ## 📌 Project Overview  
-This project focuses on analyzing **healthcare indicators** across various countries over time. The dataset includes critical metrics such as:  
+This project focuses on analyzing **healthcare indicators** across various countries such as USA, Canada, Germany, Nigeria and India between 1990 and 2020. The dataset is taken from Kaggle.com and used for the purpose of data analysis to work on my skills. *The accuracy of data is not guaranteed.* 
+
+The dataset includes critical metrics such as:  
 
 - **Life Expectancy**  
 - **Hospital Beds per 1,000 People**  
@@ -43,7 +45,7 @@ Before analysis, I performed the following preprocessing steps:
 
 ---
 
-## 📈 **Visualizations Used**  
+## 📈 **Visualizations with Seaborn and Matplotlib**  
 ✔ **Bar plots & line plots** to analyze trends over time.  
 ✔ **Heatmaps** for correlation analysis.  
 ✔ **Stacked bar charts** for country-wise comparisons.
@@ -53,6 +55,8 @@ Before analysis, I performed the following preprocessing steps:
 ## 📊 **Visualizations in Tableau**
 
 I leveraged **Tableau** to create an **interactive dashboard** for analyzing global healthcare data from 1990 to 2020. Using **data visualization techniques**, I successfully represented life expectancy trends, healthcare spending patterns, and the availability of hospital beds and doctors per 1,000 people across different countries. I built **KPI cards**, **bar plots**, **scatter plots**, and **line graphs**, while integrating *filters and slicers* for dynamic exploration. By applying data modeling techniques, I connected multiple charts and allowed cross-filtering between different metrics. This not only enhanced data storytelling but also provided actionable insights into healthcare infrastructure and its impact on life expectancy. Through this work, I demonstrated my expertise in *data visualization*, *dashboard design*, and *advanced filtering techniques in Tableau*.
+
+---
 
 ## 📊 **Visualizations in PowerBI**
 
